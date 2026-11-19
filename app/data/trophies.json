@@ -1,0 +1,823 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, published 2026-11-18 (as carried by the competition kit): the source of every trophy's name, description and grade in this file.",
+    "Grand Theft Auto VI released 2026-11-19, so detailed community walkthroughs are still emerging. No guide text here is copied from any other guide, wiki, video or forum: every guide is written in our own words from the official description, and where an exact location or step is not pinned down by the official description, the guide says so plainly instead of inventing one."
+  ],
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: it unlocks automatically once the other 54 trophies are earned, and every one of them stays earnable in free roam after the story.",
+      "guide": "This is the platinum trophy, and there is nothing to do for it directly: it pops the moment the other 54 trophies are all earned. Work through the roadmap in order — story first, then the stranger strands, activities, collectibles, and finally the combat and miscellaneous cleanup — and this will be the last thing you unlock. It cannot be missed, because every other trophy can still be earned in free roam after the story, apart from the handful flagged in the Missables box.",
+      "tips": [
+        "Follow the roadmap phases in order — the platinum is the finish line, not a goal to chase directly.",
+        "Check the Missables box first so nothing time-sensitive slips past during the story."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missable_note": "Not missable: the opening mission is part of the story and can be replayed if anything goes wrong.",
+      "guide": "Complete Gone Fishing, the opening mission of the game. This unlocks through normal story play in the first minutes — just follow the on-screen objective markers through the mission until it ends. It cannot be missed: the opening mission is part of the story, and story missions can be replayed from the mission menu.",
+      "tips": [
+        "Follow the objective markers; there is nothing optional to prepare first."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missable_note": "Not missable: chapters unlock in order as the story is played, and story missions can be replayed.",
+      "guide": "Complete Chapter 1 of the story. Chapters unlock in order as you play through the missions, so this pops naturally once you have finished every mission in the first chapter. It cannot be missed: story progress is linear, and any mission can be replayed from the mission menu if you need to redo it.",
+      "tips": [
+        "Play the story missions in order; side activities can wait until later phases."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missable_note": "Not missable: chapters unlock in order as the story is played, and story missions can be replayed.",
+      "guide": "Complete Chapter 2 of the story. Like the other chapter trophies, this pops once you have finished every mission in the second chapter, in story order. It cannot be missed: chapters are a straight path through the story, and missions can be replayed from the mission menu.",
+      "tips": [
+        "Keep pushing the story forward; there is no optional requirement hiding in this one."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missable_note": "Not missable: chapters unlock in order as the story is played, and story missions can be replayed.",
+      "guide": "Complete Chapter 3 of the story. This is the third chapter trophy, earned by finishing all of the chapter's missions in story order. It cannot be missed: the story moves forward one chapter at a time, and any mission can be replayed if something goes wrong.",
+      "tips": [
+        "If you are chasing the missable trophies, this is a good point to check the Missables box before moving on."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missable_note": "Not missable: chapters unlock in order as the story is played, and story missions can be replayed.",
+      "guide": "Complete Chapter 4 of the story. Finishing the last mission of the fourth chapter pops this trophy, leaving only the final mission ahead. It cannot be missed: chapter progress is a straight line through the story, and missions can be replayed from the mission menu.",
+      "tips": [
+        "Before the finale, make sure you have attempted the missable trophies that need your partner or a story moment."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "missable": false,
+      "missable_note": "Not missable: the final mission unlocks once every chapter is done, and it can be replayed.",
+      "guide": "Complete the final mission of the story. This is the gold trophy for finishing the game: it unlocks once all four chapters are done and you play the last mission through to its end. It cannot be missed — the final mission is the end of the story path, and it can be replayed from the mission menu. After it pops, the whole map stays open in free roam for the cleanup phases.",
+      "tips": [
+        "Finish the missable trophies that need a story moment or your partner before the finale, where you can.",
+        "After the credits, free roam is where the collectibles, activities and 100% work happens."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "mission",
+      "missable": false,
+      "missable_note": "Not missable: story missions can be replayed from the mission menu.",
+      "guide": "Complete the story mission Breakfast Run. Story missions appear in order as you play, marked on the map and in the mission list — follow the markers, do what the mission asks, and the trophy pops when the mission ends. It cannot be missed: story missions stay replayable after you first finish them.",
+      "tips": [
+        "Follow the in-game objective markers; the mission itself tells you what to do at each step."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "mission",
+      "missable": false,
+      "missable_note": "Not missable: story missions can be replayed from the mission menu.",
+      "guide": "Complete the story mission The Cartel Heist. This is a heist mission reached by playing the story in order; like every story mission, it pops when the mission ends successfully. It cannot be missed: story missions can be replayed from the mission menu if the first attempt fails.",
+      "tips": [
+        "Heist missions usually have a setup phase — finish the setup steps first and the heist itself will follow."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "mission",
+      "missable": false,
+      "missable_note": "Not missable: story missions can be replayed from the mission menu.",
+      "guide": "Complete the story mission Child's Play. Play the story in order until this mission appears, then follow its objective markers through to the end. It cannot be missed: story missions stay replayable after they are first completed.",
+      "tips": [
+        "If a mission step is unclear, the objective marker and the on-screen prompt are the best guide in the moment."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "mission",
+      "missable": false,
+      "missable_note": "Not missable: story missions can be replayed from the mission menu.",
+      "guide": "Complete the story mission Headliners. This mission comes up in story order; follow its markers and finish it to earn the trophy. It cannot be missed: story missions can be replayed from the mission menu, so a failed attempt costs nothing but time.",
+      "tips": [
+        "Keep an eye on the Missables box while you work through the story missions."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    }
+    ,
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "mission",
+      "missable": false,
+      "missable_note": "Not missable: story missions can be replayed from the mission menu.",
+      "guide": "Complete the story mission VCIA Takedown. The name points to the airport, Vice City International, so expect this mission to take you there. Play the story in order, follow the mission markers, and the trophy pops when the mission ends. It cannot be missed: story missions can be replayed from the mission menu.",
+      "tips": [
+        "This mission is at the airport — and the airport is also where the missable Catch Me If You Can moment happens, so pay attention while you are there."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "mission",
+      "missable": false,
+      "missable_note": "Not missable: story missions can be replayed from the mission menu.",
+      "guide": "Complete the story mission Operation Savage Glory. This is a story mission reached in story order; finish it and the trophy pops. It cannot be missed: story missions stay replayable after you first complete them.",
+      "tips": [
+        "Operation names usually mean a bigger set-piece — bring your best weapons and armour before you start."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: everything that counts toward 100% stays available in free roam after the story.",
+      "guide": "Attain 100% Completion. This is the long one: the in-game stats screen tracks your completion percentage, and it only reaches 100% once the story, the stranger strands, the activities, the collectibles and the exploration goals are all done. Treat it as the last gold before the platinum and use the checklist here to see what is still missing. It cannot be missed — everything that counts toward 100% stays available in free roam after the story.",
+      "tips": [
+        "Use the in-game stats screen to see which completion categories are still short.",
+        "This is a Phase 6 trophy: leave it until the story, strands, activities and collectibles are all done."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: the stunt counter keeps counting in free roam after the story.",
+      "guide": "Complete 250 stunts. Stunts are the jumps, near-misses, drifts and airtime moments the game tracks as you drive and ride around Leonida, and they build up naturally whenever you drive fast and boldly. Let the count climb across the whole playthrough rather than grinding it in one sitting: pick fast cars and bikes, use ramps and jumps, and the total will grow on its own. It cannot be missed — the counter keeps counting in free roam after the story.",
+      "tips": [
+        "Drive fast and take jumps whenever you travel — the count grows fastest when you are not trying.",
+        "Check the stats screen to see how close to 250 you are before doing a dedicated stunt session."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: activities stay open in free roam after the story.",
+      "guide": "Try each type of activity once. The game counts nine activity types, and the activities menu shows which ones you have tried and which are still untouched. Sample one of each during the story and free roam — you only need to try each once, not win or finish it. It cannot be missed: activities stay open in free roam after the story.",
+      "tips": [
+        "Open the activities menu early and note the nine types, then tick them off one at a time.",
+        "Trying is enough — you do not need to win, so pick the easiest entry point for each type."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "combat",
+      "missable": false,
+      "missable_note": "Not missable: the shooting ranges stay open in free roam after the story.",
+      "guide": "Earn a gold medal in all Shooting Range challenges. There are 42 challenges at the shooting ranges, and each one needs a gold-medal score. Work through them weapon by weapon, and use the range's own display to see your best medal per challenge so you know exactly which ones are still short of gold. It cannot be missed — the ranges stay open in free roam after the story, and you can retry any challenge as often as you like.",
+      "tips": [
+        "Do the challenges with weapons you are already comfortable with first.",
+        "The range shows your best medal per challenge — clear the easy golds, then grind the hard ones."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: drone races stay open in free roam after the story.",
+      "guide": "Win a Top Fun Drone Race at every location. There are 14 drone-race locations, and you need a win at each one — winning the same location twice does not help. Learn each course's turns on a practice run before pushing for the win, and keep a note of which locations you have already won. It cannot be missed: the races stay open in free roam after the story.",
+      "tips": [
+        "Fly a slow practice lap first to learn the gates, then race for the win.",
+        "Tick off each of the 14 locations as you win it so you do not repeat one by mistake."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: races stay open in free roam after the story.",
+      "guide": "Win 20 different races. Any race type counts, but each race only counts once — winning the same race again does not add to the total. Spread your wins across different races and race types, and keep track of which ones you have already won. It cannot be missed: races stay open in free roam after the story.",
+      "tips": [
+        "Start with the shortest, easiest races to bank quick wins.",
+        "Vary the race types — the count is for different races, not repeat wins."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "missable_note": "Not missable: the fishing challenge can be retried, and fishing stays open in free roam.",
+      "guide": "Beat Cal in a fishing challenge. Cal is a fishing rival you meet through the fishing activity, and the challenge is a contest against him — out-fish him to take the trophy. If you lose, challenge him again: a loss costs nothing but time, and you can keep trying until you win. It cannot be missed: fishing and its challenges stay open in free roam after the story.",
+      "tips": [
+        "Practice fishing on your own first so you know how the activity works before challenging Cal.",
+        "A loss is free — just challenge him again."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: arcade machines stay playable in free roam after the story.",
+      "guide": "Complete an arcade game. Find an arcade machine in the world and play one game through to its end — finishing is what counts, not a high score. Pick the simplest game on the machine if you are given a choice. It cannot be missed: arcade machines stay playable in free roam after the story.",
+      "tips": [
+        "Finishing counts, not scoring — pick the easiest game available."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "missable_note": "Not missable: stranger mission strands stay available in free roam after the story.",
+      "guide": "Complete the final mission for Andy. Andy is one of the strangers whose mission strand runs through the game: keep taking his missions as they appear on the map, and the last one unlocks only after the earlier ones are done. Finish that final mission to earn the trophy. It cannot be missed — stranger missions stay available in free roam after the story, so do not leave his strand half-finished.",
+      "tips": [
+        "Take Andy's missions whenever they appear; a strand only ends when its last mission is done.",
+        "Finishing Andy's strand also counts toward the Strangers & Freaks trophy."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    }
+    ,
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "missable_note": "Not missable: stranger mission strands stay available in free roam after the story.",
+      "guide": "Complete the final mission for Kenton. Kenton is another stranger with a mission strand: work through his missions in order as they appear, and the final one will unlock once the earlier ones are done. Finish it to earn the trophy. It cannot be missed — stranger missions stay available in free roam after the story.",
+      "tips": [
+        "Keep checking the map for Kenton's missions between story beats.",
+        "Finishing Kenton's strand also counts toward the Strangers & Freaks trophy."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "missable_note": "Not missable: stranger mission strands stay available in free roam after the story.",
+      "guide": "Complete the final mission for Billy. Billy's strand works like the other stranger strands: take his missions as they appear, in order, until the final one unlocks, then finish it. It cannot be missed — stranger missions stay available in free roam after the story.",
+      "tips": [
+        "Billy's strand is one of the eight that count toward Strangers & Freaks.",
+        "Do stranger missions as they appear so the strands do not pile up at the end."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "side",
+      "missable": false,
+      "missable_note": "Not missable: stranger mission strands stay available in free roam after the story.",
+      "guide": "Complete 8 mission strands for strangers across the state of Leonida. Strangers hand out optional mission strands marked on the map, and a strand only counts once you have finished its final mission — half-finished strands do not count. Finishing Andy's, Kenton's, Billy's, Randy's and Tyrone's strands counts toward this total, so those five named strands plus three more will get you there. It cannot be missed: stranger missions stay available in free roam after the story.",
+      "tips": [
+        "Finish strands completely — a strand counts only when its final mission is done.",
+        "The five named stranger trophies (Andy, Kenton, Billy, Randy, Tyrone) are five of the eight you need."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "missable_note": "Not missable: stranger mission strands stay available in free roam after the story.",
+      "guide": "Complete the final mission for Randy. Randy's strand follows the usual stranger pattern: take his missions as they appear, in order, until the final one unlocks, then finish it. It cannot be missed — stranger missions stay available in free roam after the story.",
+      "tips": [
+        "Randy's strand is one of the eight that count toward Strangers & Freaks."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "missable_note": "Not missable: stranger mission strands stay available in free roam after the story.",
+      "guide": "Complete the final mission for Tyrone. Tyrone's strand works like the other stranger strands: work through his missions in order as they appear, and finish the final one when it unlocks. It cannot be missed — stranger missions stay available in free roam after the story.",
+      "tips": [
+        "Tyrone's strand is one of the eight that count toward Strangers & Freaks."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "collectible",
+      "missable": false,
+      "missable_note": "Not missable: meditation spots stay available in free roam after the story.",
+      "guide": "Meditate at every spot across Leonida. There are 18 meditation spots scattered across the state, and meditating at each one counts toward the total — the game tracks how many you have found. Visit them during your exploration runs and tick them off as you go; no spot is locked behind the story. It cannot be missed: the spots stay available in free roam after the story. Exact spot locations are still being mapped by the community, so this guide does not list them — use the in-game map and exploration to find them.",
+      "tips": [
+        "Combine meditation spots with your exploration of the 52 areas — visit a spot whenever you enter a new area.",
+        "Keep a count as you go: 18 spots in total, and the game tracks how many you have done."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "missable_note": "Not missable: Bret's strand stays available in free roam after the story.",
+      "guide": "Hunt a unique animal for Bret. Bret asks you to hunt one particular animal, and the hunt only counts when you take the right one — follow the hunting prompts and the trail clues the strand gives you rather than shooting the first animal you see. It cannot be missed: Bret's strand stays available in free roam after the story. The exact animal and its location are not named in the official description, so follow the in-game prompts for this strand.",
+      "tips": [
+        "Follow the trail clues the mission gives you — the animal is unique to this strand.",
+        "Take your time and line up a clean shot; the wrong animal does not count."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "collectible",
+      "missable": false,
+      "missable_note": "Not missable: cards stay findable in free roam after the story.",
+      "guide": "Complete 3 Collectible Card sets. Cards are hidden around Leonida, and a set only counts once every card in it is found — the collection menu shows which cards each set still needs, so check it before you go hunting. Gather cards across your travels and finish three full sets. It cannot be missed: the cards stay findable in free roam after the story. Exact card locations are still being mapped by the community, so this guide does not list them.",
+      "tips": [
+        "Check the collection menu first — it shows which cards each set still needs.",
+        "Pick the three sets that are already closest to complete and finish those."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "collectible",
+      "missable": false,
+      "missable_note": "Not missable: WAiNK It spots stay available in free roam after the story.",
+      "guide": "WAiNK It at 100 locations. WAiNK It is a photo-style activity: use it at 100 different spots across Leonida, and each new spot counts once — repeating a spot you have already done does not add to the total. Spread it across your travels and use it whenever you reach somewhere new, so the count climbs without a dedicated grind. It cannot be missed: the spots stay available in free roam after the story.",
+      "tips": [
+        "Use WAiNK It every time you reach a new area — the count climbs on its own that way.",
+        "Only new spots count, so keep moving to places you have not used it yet."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: challenges stay available in free roam after the story.",
+      "guide": "Complete 50 Challenges. Challenges are the game's side objectives, tracked in the challenges menu — any 50 count, so open that menu, pick the easiest ones first, and work down the list. Many will complete themselves as you play the story, explore and do activities. It cannot be missed: challenges stay available in free roam after the story.",
+      "tips": [
+        "Open the challenges menu and clear the easiest ones first.",
+        "Many challenges finish naturally during the story and exploration — check the menu before grinding."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": true,
+      "missable_note": "Needs your partner beside you, and partner availability is tied to the story — do it while you are still running jobs together.",
+      "guide": "Lose a 4 star Wanted Level with your partner and escape the heat. You need your partner with you: build up a four-star wanted level together, then break line of sight and stay hidden until the heat dies down and the wanted level clears. Pick a spot with good cover before you start causing trouble, and keep your partner close while you hide. This is flagged missable because it needs your partner alongside you, and partner availability is tied to the story — attempt it while the two of you are still running together, before the finale.",
+      "tips": [
+        "Do this during the story, while your partner is still around — not after the finale.",
+        "Build the wanted level near good hiding cover, then break line of sight and wait it out."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    }
+    ,
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": true,
+      "missable_note": "Needs your partner alongside you, and partner availability is tied to the story — attempt it while you are still running together.",
+      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. With your partner alongside, rob three shops in a row while keeping the same wanted level — do not let it drop between robberies, and do not let it spike out of control either. Plan a route with three shops close together before you start, and move fast from one to the next. This is flagged missable because it needs your partner beside you, and partner availability is tied to the story — do it while the two of you are still running together.",
+      "tips": [
+        "Do this during the story, while your partner is still around.",
+        "Scout three shops close together first, then run the route in one go."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "exploration",
+      "missable": false,
+      "missable_note": "Not missable: vehicles keep appearing in free roam after the story.",
+      "guide": "Discover 100 vehicles. The game tracks every distinct vehicle you get into or drive, and 100 different ones count toward the total. Try everything you come across — cars, bikes, boats and anything else with an engine — and the count will climb as you explore. It cannot be missed: vehicles keep appearing in free roam after the story.",
+      "tips": [
+        "Get into every new vehicle you see, even briefly — discovery is what counts.",
+        "Visit different parts of Leonida: different areas have different vehicles."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "combat",
+      "missable": false,
+      "missable_note": "Not missable: firefights keep happening in free roam after the story.",
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Combat Focus is the slow-aim mode: trigger it when a group of enemies is close together, then drop all five before it ends. Pick a busy firefight — a gang shootout or a high wanted level — wait until five enemies are in view, then activate it and work through them quickly. It cannot be missed: firefights keep happening in free roam after the story, and you can retry as often as you like.",
+      "tips": [
+        "Wait until five enemies are visible before you trigger Combat Focus.",
+        "A busy firefight or a high wanted level gives you the most targets at once."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": true,
+      "missable_note": "Tied to a one-off departure from the airport; take the chance when the story brings you to VCIA, as it may not come again in free roam.",
+      "guide": "Make an unscheduled departure at VCIA. This is about leaving Vice City International Airport in a way the airport did not schedule — the description points to a single moment at the airport rather than something you can repeat at will. When a story moment takes you to VCIA, look for the chance to leave by an unusual route instead of the front door. This is flagged missable because the moment reads as a one-off, and the exact trigger is not named in the official description — the community is still mapping it, so take the unusual exit whenever the chance appears.",
+      "tips": [
+        "When the story takes you to VCIA, look for an unusual way out.",
+        "Do not assume you can come back to it later — take the chance when it appears."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "combat",
+      "missable": false,
+      "missable_note": "Not missable: tanks keep appearing at high wanted levels in free roam after the story.",
+      "guide": "Kinda hot in these Rhinos. Rhinos are the game's tanks, and the description points to dealing with them — most likely at high wanted levels or in missions where armour rolls in. When tanks appear, use heavy weapons or explosives rather than small arms, and keep moving so their cannon cannot pin you down. It cannot be missed: tanks keep appearing at high wanted levels in free roam after the story.",
+      "tips": [
+        "Build a high wanted level in the open and wait for the armour to arrive.",
+        "Heavy weapons and explosives work — small arms will not."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: jewelry stores can be robbed again in free roam after a failed attempt.",
+      "guide": "Rob a jewelry store without being detected. Plan the robbery quietly: move slowly, stay out of the guards' line of sight and away from the cameras, and take what you came for before anyone raises the alarm. If you are spotted, leave and try again — a failed attempt costs nothing. It cannot be missed: jewelry stores can be robbed again in free roam after the story.",
+      "tips": [
+        "Move slowly and watch the guards' patrol patterns before you act.",
+        "If you are spotted, back out and try again — detection only fails that attempt."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: bank vaults can be robbed again in free roam after the story.",
+      "guide": "Rob 5 Bank Vaults and escape. Five separate bank vault robberies count toward this, and each one only counts if you get away clean afterwards — plan your escape route before you go in, and have a fast vehicle waiting. It cannot be missed: bank vaults can be robbed again in free roam after the story, so take them one at a time.",
+      "tips": [
+        "Plan the escape before the robbery — a fast vehicle waiting outside is half the job.",
+        "One vault at a time; each clean escape counts."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: armored trucks keep running in free roam after the story.",
+      "guide": "Rob an Armored Truck and escape. Armored trucks travel the roads of Leonida: stop one, take its cargo, and get away before the police close in. Block the road ahead of it or hit it hard enough to stop it, grab the cargo fast, and be moving before the wanted level climbs. It cannot be missed — trucks keep running in free roam after the story.",
+      "tips": [
+        "Stop the truck first, then grab the cargo fast — lingering is what gets you caught.",
+        "Have your getaway vehicle pointed at the road out before you strike."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "exploration",
+      "missable": false,
+      "missable_note": "Not missable: every area stays reachable in free roam after the story.",
+      "guide": "Explore all of Leonida. The state is divided into 52 named areas, and visiting each one counts toward the total — the map shows which areas you have visited, so check it for the gaps. Drive the map edge to edge, into every town, beach, swamp and back road, until no area is left unvisited. It cannot be missed: every area stays reachable in free roam after the story.",
+      "tips": [
+        "Check the map for unvisited areas and plan a route through them.",
+        "Combine this with the meditation spots, cards and WAiNK It locations — one trip, several counts."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: gang operations keep appearing in free roam after the story.",
+      "guide": "Rob an Illegal Operation belonging to each gang. Nine gangs run illegal operations around Leonida, and you need to rob one operation from each of the nine — robbing the same gang twice does not help. Keep a note of which gangs you have hit and which are still untouched, and work through the list. It cannot be missed: gang operations keep appearing in free roam after the story.",
+      "tips": [
+        "Track the nine gangs as you go — one operation per gang, no repeats.",
+        "Illegal operations are marked in the world; clear one gang at a time."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "exploration",
+      "missable": false,
+      "missable_note": "Not missable: Ocean Beach and its bars stay open in free roam after the story.",
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. Head to Ocean Beach, find a bar with a view of the water, and order a cocktail — the trophy is about the moment, not a challenge, so take your time and enjoy it. It cannot be missed: the beach and its bars are open in free roam after the story.",
+      "tips": [
+        "Go to Ocean Beach, sit somewhere with a view of the water, and order a cocktail."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    }
+    ,
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "mission",
+      "missable": true,
+      "missable_note": "Reads as a single scripted story moment in a showroom; take the dramatic exit when the mission gives you the chance.",
+      "guide": "Smash your way out of a vehicle showroom in classic style. This points to a scripted story moment: a getaway that starts inside a vehicle showroom and ends with you smashing your way out through the glass. When a mission puts you in a showroom, drive out through the front rather than looking for a door — the dramatic exit is the point. This is flagged missable because it reads as one story moment, and the official description does not name the mission — the community is still mapping exactly which one it is, so take the smash-out exit whenever a mission gives you the chance.",
+      "tips": [
+        "When a mission puts you in a vehicle showroom, drive out through the front.",
+        "Do not look for a quiet exit — the trophy wants the smash."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: the bowling alley stays open in free roam after the story.",
+      "guide": "Follow-through at the Kolt & Associates' bowling alley. Go to the Kolt & Associates bowling alley and bowl a game — follow-through means finishing the delivery properly, so play the game through rather than walking away mid-frame. It cannot be missed: the bowling alley stays open in free roam after the story.",
+      "tips": [
+        "Play a full game at the Kolt & Associates alley and finish your deliveries."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Most likely a story beat; story beats can be replayed, and the description does not point to a one-time window.",
+      "guide": "A partnership with mass appeal. The description is deliberately vague, and it most likely marks a story beat where you and your partner pull off something the whole state notices — keep playing the story and it should come on its own. It is not flagged missable: nothing in the description points to a one-time window, and story beats can be replayed. If it has not popped by the end of the story, check the community's findings, which are still emerging.",
+      "tips": [
+        "Keep playing the story — this one most likely comes on its own.",
+        "If it has not popped by the finale, check what the community has found since."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": true,
+      "missable_note": "Story choices can only be made once; answer every decision prompt as it comes rather than skipping past it.",
+      "guide": "Choices made (for better or worse). Some story moments ask you to choose, and the choice itself is the trophy: once you pick, that moment is gone. The description is short and does not say which choice counts, and PlayStation tracks a progress count for this trophy, so it may need many choices across the game rather than one big one. Keep choosing whenever the game asks — in missions and in the open world — and the count will climb. This is flagged missable because a story choice can only be made once: do not skip a decision prompt, and make each choice deliberately as it comes.",
+      "tips": [
+        "Answer every decision prompt as it appears — a skipped choice may not come back.",
+        "Choices in missions and the open world may both count toward the total."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: retryable moments keep coming in free roam after the story.",
+      "guide": "Second time's the charm. This one is about succeeding on a second attempt: fail something, then pull it off the next time around. The official description does not name what has to be retried, so the honest advice is to keep playing and retrying — retryable moments keep coming, in missions, activities and the open world, and the trophy should come with one of them. It cannot be missed: there is no single window for a second try.",
+      "tips": [
+        "Do not force it — keep playing, and retry anything you fail instead of reloading an old save."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "exploration",
+      "missable": false,
+      "missable_note": "Not missable: strange encounters keep happening in free roam after the story.",
+      "guide": "What the hell just happened? Something strange is out there in Leonida, and seeing it is the trophy: a weird event, a strange sighting, or an odd encounter in the open world. Keep exploring off the beaten path — back roads, quiet corners and odd places — and it will find you. It cannot be missed: strange encounters keep happening in free roam after the story. The exact event is not named in the official description, so this guide does not guess at it.",
+      "tips": [
+        "Explore off the beaten path — strange things hide in quiet corners.",
+        "Keep playing in free roam; the encounter will come around."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "combat",
+      "missable": false,
+      "missable_note": "Not missable: drive-bys can be attempted any time in free roam after the story.",
+      "guide": "Bowl 'em over with a melee drive-by. A melee drive-by means striking someone with a melee weapon from a moving vehicle — line up a slow pass, lean out with the melee weapon ready, and connect as you roll past. Pick a quiet street with pedestrians and a slow vehicle so you can aim the pass. It cannot be missed: drive-bys can be attempted any time in free roam after the story.",
+      "tips": [
+        "Use a slow vehicle and a quiet street so you can line up the pass.",
+        "Melee weapon ready before you roll in — the window is short."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: marked bills keep coming from robberies and heists in free roam after the story.",
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked bills come from robberies and heists, and your contacts can wash them into clean cash — keep laundering after every big score and the total will climb toward $250,000. It cannot be missed: marked bills keep coming from robberies and heists in free roam after the story.",
+      "tips": [
+        "Launder after every big score instead of letting marked bills pile up.",
+        "Bank vaults and armored trucks are good sources of marked bills."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: shops stay open in free roam after the story.",
+      "guide": "Spend $100,000 across all shops. Every shop purchase counts — clothes, weapons, food, cars — so this total climbs naturally as you play, and big-ticket items late in the game will finish it off. It cannot be missed: shops stay open in free roam after the story, and spending is entirely in your control.",
+      "tips": [
+        "It climbs on its own — check the total before buying anything big late in the game.",
+        "Cars and weapons are the fastest way to close the gap."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "collectible",
+      "missable": false,
+      "missable_note": "Not missable: garage properties stay for sale in free roam after the story.",
+      "guide": "Purchase all garage properties. There are eight garage properties to buy around Leonida, each one a place to store your vehicles — buy them as your cash allows, and the trophy pops when the eighth is yours. It cannot be missed: the properties stay for sale in free roam after the story.",
+      "tips": [
+        "Buy garages as cash allows — they also give you somewhere to keep the vehicles you discover.",
+        "Eight in total; check the property listings for any you have not bought yet."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "missable_note": "Not missable: vehicles keep appearing in free roam after the story.",
+      "guide": "Register 10 vehicles to the Scooter Bros app. The Scooter Bros app lets you register vehicles you find: register ten different ones and the trophy pops. Pair it with the vehicle-discovery trophy — every new vehicle you find can be registered as well as discovered. It cannot be missed: vehicles keep appearing in free roam after the story.",
+      "tips": [
+        "Register every new vehicle you find — it pairs with the 100-vehicle discovery trophy.",
+        "Ten different vehicles; repeats do not count."
+      ],
+      "source": "Official PlayStation 5 trophy list, published 2026-11-18 (name, description and grade); guide written from that description for this entry."
+    }
+  ]
+}

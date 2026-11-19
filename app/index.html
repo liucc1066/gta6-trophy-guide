@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vice City Nights — GTA VI Trophy Guide &amp; Tracker</title>
+<meta name="description" content="The offline guide and tracker for all 55 PlayStation 5 trophies of Grand Theft Auto VI: roadmap to the platinum, missable flags, and a guide to each trophy.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-inner">
+    <div>
+      <p class="eyebrow">Grand Theft Auto VI &middot; PlayStation 5 &middot; 55 trophies</p>
+      <h1>VICE CITY NIGHTS</h1>
+      <p class="subtitle">The offline trophy guide &amp; tracker for Leonida — every trophy, a roadmap to the platinum, and the missables flagged before they slip away.</p>
+    </div>
+    <div class="progress-card" id="progressCard">
+      <p class="progress-big"><span id="earnedCount">0</span> <span class="progress-of">of 55 earned</span></p>
+      <div class="progress-bar" role="progressbar" aria-label="Trophies earned"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+      <p class="grade-counts" id="gradeCounts"></p>
+      <p class="progress-note" id="progressNote">Tick a trophy off and it stays ticked — saved in this browser.</p>
+    </div>
+  </div>
+</header>
+
+<main>
+ <div class="layout">
+  <div class="side">
+  <section class="roadmap" id="roadmap" aria-labelledby="roadmapHeading">
+    <h2 id="roadmapHeading">Roadmap to the Platinum</h2>
+    <p class="section-lead">Six phases, in order. Finish the story first, then the stranger strands, then activities, collectibles and cleanup — the platinum pops last. Built from the official trophy descriptions.</p>
+    <div class="phase-grid" id="phaseGrid"></div>
+  </section>
+
+  <section class="missables" id="missables" aria-labelledby="missablesHeading">
+    <h2 id="missablesHeading">Missables to watch</h2>
+    <p class="section-lead">Five trophies can slip past if you are not looking for them. Everything else stays earnable in free roam after the story.</p>
+    <ul class="missable-list" id="missableList"></ul>
+  </section>
+  </div>
+
+  <section class="tracker" aria-labelledby="trackerHeading">
+    <h2 id="trackerHeading">Trophy checklist</h2>
+    <div class="controls">
+      <label class="control search">Search <input id="search" type="search" placeholder="Search name or description…" autocomplete="off"></label>
+      <label class="control">Grade
+        <select id="gradeFilter">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="control">Kind
+        <select id="kindFilter">
+          <option value="all">All kinds</option>
+          <option value="story">Story</option>
+          <option value="mission">Mission</option>
+          <option value="side">Side</option>
+          <option value="collectible">Collectible</option>
+          <option value="combat">Combat</option>
+          <option value="exploration">Exploration</option>
+          <option value="misc">Misc</option>
+        </select>
+      </label>
+      <label class="control">Status
+        <select id="statusFilter">
+          <option value="all">Earned &amp; unearned</option>
+          <option value="earned">Earned only</option>
+          <option value="unearned">Unearned only</option>
+        </select>
+      </label>
+      <label class="control check"><input id="missableOnly" type="checkbox"> Missable only</label>
+      <label class="control check spoiler"><input id="spoilerToggle" type="checkbox"> Spoiler mode: hide story trophies until earned</label>
+      <span class="control buttons">
+        <button id="exportBtn" type="button">Export progress</button>
+        <label class="import-btn">Import progress <input id="importFile" type="file" accept="application/json,.json"></label>
+      </span>
+    </div>
+    <p class="result-count" id="resultCount"></p>
+    <div class="trophy-list" id="trophyList"></div>
+    <noscript><p class="noscript-note">This tracker needs JavaScript to load the trophy list. The data lives in data/trophies.json.</p></noscript>
+  </section>
+  </div>
+
+  <section class="stats" aria-labelledby="statsHeading">
+    <h2 id="statsHeading">The list at a glance</h2>
+    <dl class="stat-grid">
+      <div><dt>Total trophies</dt><dd>55</dd></div>
+      <div><dt>Platinum</dt><dd>1</dd></div>
+      <div><dt>Gold</dt><dd>2</dd></div>
+      <div><dt>Silver</dt><dd>6</dd></div>
+      <div><dt>Bronze</dt><dd>46</dd></div>
+      <div><dt>Hidden on PlayStation</dt><dd>28</dd></div>
+    </dl>
+    <p><strong>Estimated difficulty:</strong> honest note — based on the official descriptions, not on a completed playthrough. The story and most side content are straightforward; the grind is the long tail: 250 stunts, gold medals in all 42 Shooting Range challenges, 100 WAiNK It locations, 100 vehicles, and 100% completion for the final gold. Expect a long but relaxed platinum — times vary a lot with how much you explore as you go.</p>
+    <h3>Sources</h3>
+    <p>Every trophy's name, description and grade comes from the official PlayStation 5 trophy list for Grand Theft Auto VI, published 2026-11-18 (as carried in the competition kit's reference data). Every guide in this app is written in our own words from that official description — nothing is copied from PowerPyx, PlayStationTrophies.org, PSNProfiles, TrueTrophies, Exophase, any wiki, video or forum. Grand Theft Auto VI released 2026-11-19, so detailed community walkthroughs are still emerging: where an exact location or step is not pinned down by the official description, the guide says so plainly instead of inventing one. No Rockstar logo or official artwork appears anywhere here; every visual is original CSS and SVG drawn for this guide.</p>
+    <p class="offline-note">This guide works fully offline: every file it loads lives in this folder, and it makes no network request.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Vice City Nights — an unofficial, fan-made guide. Grand Theft Auto and Rockstar Games are trademarks of their owners; this guide is not affiliated with or endorsed by them. MIT licensed — see LICENSE.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
